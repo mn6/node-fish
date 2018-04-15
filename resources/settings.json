@@ -1,0 +1,13 @@
+{
+  "types": {
+    "common": { "icon": "🐟", "name": "Common Fish", "value": 6 },
+    "uncommon": { "icon": "🐠", "name": "Uncommon Fish", "value": 12 },
+    "rare": { "icon": ["🦈", "�", "🐳", "🐋", "🐙", "🦀", "🦐", "🦑"], "name": "Rare Fish", "value": 1000 }
+  },
+  "settings": {
+    "rarities": {
+      "uncommon": "65",
+      "rare": "98"
+    }
+  }
+} 
