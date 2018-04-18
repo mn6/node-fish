@@ -1,5 +1,4 @@
 const chalk = require('chalk')
-const clear = require('clear')
 const prompts = require('prompts')
 const fig = require('figlet')
 const fs = require('fs')
